@@ -1,1 +1,2 @@
 # Financiality
+This is a project I am working on (when I have the time!) to make a fully-featured finances app, where a user can add bank transactions, credit card transactions, monitor their accounts, and even specify which credit cards to use given their respective cash back bonuses. Right now, I intend on this app being fully offline to avoid any data collection, which sets it apart from many of the popular finance apps which collect all types of data. 
